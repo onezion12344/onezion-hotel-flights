@@ -1,0 +1,6 @@
+{
+  "jinko-mcp": {
+    "command": "npx",
+    "args": ["jinko-mcp-dev@latest"]
+  }
+}

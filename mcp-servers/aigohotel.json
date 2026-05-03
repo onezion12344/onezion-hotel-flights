@@ -1,0 +1,9 @@
+{
+  "aigohotel-mcp": {
+    "url": "https://mcp.aigohotel.com/mcp",
+    "type": "http",
+    "headers": {
+      "Authorization": "Bearer ${AIGOHOTEL_API_KEY}"
+    }
+  }
+}
